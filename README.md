@@ -60,11 +60,11 @@
 
 
 <a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MrH723&repo=Actions-OpenWrt" />
 </a>
 
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MrH723&repo=openwrt-packages" />
 </a>
 
 
