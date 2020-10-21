@@ -8,11 +8,11 @@
 
 
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<a href="hhttps://github.com/MrH723/Actions-OpenWrt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MrH723&repo=Actions-OpenWrt" />
 </a>
 
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
+<a href="https://github.com/MrH723/openwrt-packages">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MrH723&repo=openwrt-packages" />
 </a>
 
