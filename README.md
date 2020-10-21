@@ -8,7 +8,7 @@
 
 
 
-<a href="hhttps://github.com/MrH723/Actions-OpenWrt">
+<a href="https://github.com/MrH723/Actions-OpenWrt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MrH723&repo=Actions-OpenWrt" />
 </a>
 
