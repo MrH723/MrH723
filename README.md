@@ -2,9 +2,6 @@
   <img align="centre" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 
-![email](https://img.shields.io/badge/Email-hzj%40me.com-green?style=for-the-badge&logo=appveyor)
-![qq](https://img.shields.io/badge/qq-21633312-green?style=for-the-badge&logo=appveyor)
-[![Web&&Blog](https://img.shields.io/badge/Web&&Blog-https://www.meefarm.cn-green.svg?style=for-the-badge&logo=appveyor)](https://www.meefarm.cn)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MrH723&show_icons=true&hide_border=true)
 
